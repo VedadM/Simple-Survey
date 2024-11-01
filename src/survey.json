@@ -1,0 +1,41 @@
+{
+  "main": {
+    "info": "<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Ipsum orci tempor quis litora egestas euismod eleifend. Cras eleifend parturient proin urna maximus. Eleifend lacinia suspendisse mollis malesuada augue lobortis morbi. Curae ultricies vestibulum ex dignissim consectetur euismod. Aliquet cras mus justo parturient magna magnis.</p><p>Nulla aptent sed urna facilisis porttitor id maximus cras. Aptent proin integer etiam auctor feugiat. Quisque commodo suspendisse scelerisque ornare purus interdum massa torquent. Duis magna et parturient vehicula lacinia. Blandit condimentum interdum rhoncus convallis cras. Ac fringilla augue vulputate cursus torquent tempor suscipit potenti euismod. Dis vulputate hendrerit nascetur taciti condimentum in.</p><p>Nunc cras finibus himenaeos; venenatis dignissim elementum. Leo dapibus elementum aliquam accumsan sodales dictumst massa. Ante nec bibendum dis hendrerit congue elementum tempus massa. Luctus faucibus lacinia natoque; bibendum a tellus elit ipsum blandit. Quisque metus hendrerit vel et fermentum amet. Justo aliquam facilisi inceptos euismod nisi leo euismod suscipit. Fermentum tortor sagittis hendrerit fames accumsan at! Pellentesque ipsum cubilia torquent magna vitae felis.</p>"
+  },
+  "survey":[
+    {
+      "question": "How old Are you",
+      "choices": [
+        "15",
+        "35",
+        "75",
+        "None of you Damn Business"
+      ]
+    },
+    {
+      "question": "What is your favorite color?",
+      "choices": [
+        "Red",
+        "Blue",
+        "Green"
+      ]
+    },
+    {
+      "question": "Do you like cheese",
+      "choices": [
+        "Yes", 
+        "No"
+      ]
+    },
+    {
+      "question": "Is this the last question",
+      "choices": [
+        "Yes", 
+        "No"
+      ]
+    }
+  ],
+  "confirmation": {
+    "info": "END TEXT GOES HERE"
+  }
+}
